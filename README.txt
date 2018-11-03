@@ -3,7 +3,7 @@ How to use：
 
 At editor, Click the document icon on the topbar, via "Document" > "Open" > "EasyEDA Source", and select json file, then open it at the editor.
 
-
+Not tested. If you test it and send result, it would be great. 
 
 如何使用：
 
